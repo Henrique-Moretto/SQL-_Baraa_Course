@@ -75,3 +75,4 @@ select * from customers where id >5
 truncate table persons
 
 select * from persons
+
